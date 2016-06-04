@@ -1,0 +1,10 @@
+# Site settings
+title: Die Wahrhaft Schwachen
+tag_text: DWS
+description: Die Wahrhaft Schwachen -- Kleinkunst & Kabarett
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
