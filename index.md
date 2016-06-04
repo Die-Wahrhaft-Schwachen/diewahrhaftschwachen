@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Dies ist der Webauftritt der Kabarett & Kleinkunst Gruppe Die Wahrhaft Schwachen.
+Dies ist der Webauftritt der Kabarett & Kleinkunst Gruppe **Die Wahrhaft Schwachen**.
 
 ## Termine
 
@@ -14,6 +14,10 @@ Unsere nächsten Auftritte:
 
 ## Kontakt
 
-* Per Email erreichen Sie uns unter die *punkt* wahrhaft *punkt* schwachen *at* gmail *punkt* com
+Per Email erreichen Sie uns unter:
+die *punkt* wahrhaft *punkt* schwachen *at* gmail *punkt* com
+
+## Links
+
 * [Facebook](https://www.facebook.com/diewahrhaftschwachen)
 * [Youtube](https://www.youtube.com/channel/UCUGTISDvY5PBIDK0J_-zrCQ)
