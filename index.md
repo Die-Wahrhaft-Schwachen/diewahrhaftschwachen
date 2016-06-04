@@ -16,6 +16,6 @@ Unsere nächsten Auftritte:
 
 ## Kontakt
 
-* Per Email erreichen Sie uns unter die *punkt* wahrhaft *punkt* schwachen <at> gmail *punkt* com
-* Facebook: (https://www.facebook.com/diewahrhaftschwachen
-* Youtube: (https://www.youtube.com/channel/UCUGTISDvY5PBIDK0J_-zrCQ)
+* Per Email erreichen Sie uns unter die *punkt* wahrhaft *punkt* schwachen *at* gmail *punkt* com
+* [Facebook](https://www.facebook.com/diewahrhaftschwachen
+* [Youtube](https://www.youtube.com/channel/UCUGTISDvY5PBIDK0J_-zrCQ)
