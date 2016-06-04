@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Die Wahrhaft Schwachen
-
 Dies ist der Webauftritt der Kabarett & Kleinkunst Gruppe Die Wahrhaft Schwachen.
 
 ## Termine
