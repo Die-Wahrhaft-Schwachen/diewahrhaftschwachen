@@ -12,9 +12,7 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 
 Unsere nächsten Auftritte:
 
-* 11.06.2016, 18 Uhr Nacht der Kulturen, Hochschule Pforzheim
-* 18.06.2016, 13-15 Uhr Unifest des ASTA KIT, Karlsruhe
-* 09.07.2016 Hoffest des Bunds Bildender Künstler, Karlsruhe
+* 20.10.2016 AKK, KIT Campus Süd
 
 ## Kontakt
 
