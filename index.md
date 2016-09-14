@@ -17,7 +17,7 @@ Unsere nächsten Auftritte:
 ## Kontakt
 
 Per Email erreichen Sie uns unter:
-die *punkt* wahrhaft *punkt* schwachen *at* gmail *punkt* com
+kontakt *at* wahrhaft-schwach *punkt* de
 
 ## Wir auf..
 
