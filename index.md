@@ -12,7 +12,6 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 
 Unsere nächsten Auftritte:
 
-* 25.10.2016 AKK, KIT Campus Süd
 * 30.11. Studentisches Kulturzentrum, KIT Campus Süd
 * 2.12. Studentisches Kulturzentrum, KIT Campus Süd
 * 3.12. Studentisches Kulturzentrum, KIT Campus Süd
