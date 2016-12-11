@@ -12,9 +12,7 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 
 Unsere nächsten Auftritte:
 
-* 30.11. Studentisches Kulturzentrum, KIT Campus Süd
-* 2.12. Studentisches Kulturzentrum, KIT Campus Süd
-* 3.12. Studentisches Kulturzentrum, KIT Campus Süd
+* 21.01.17 Ei(n)fälle, bundesweites Kabaretttreffen der Studiosi, Cottbus
 
 ## Kontakt
 
