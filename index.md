@@ -12,7 +12,7 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 
 Unsere nächsten Auftritte:
 
-* 21.01.17 Ei(n)fälle, bundesweites Kabaretttreffen der Studiosi, Cottbus
+* 24.03.17 Einmalig, Festsaal Studentenwerk Karlsruhe
 
 ## Kontakt
 
