@@ -12,7 +12,8 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 
 Unsere nächsten Auftritte:
 
-* 24.03.17 Einmalig, Festsaal Studentenwerk Karlsruhe
+* 24.06.17 AStA Unifest, KIT Karlsruhe
+* ECKKULTURdörfle, Karlsruhe
 
 ## Kontakt
 
