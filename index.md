@@ -15,6 +15,7 @@ Unsere nächsten Auftritte:
 * 13.06.17 Schlonz im AKK, KIT Karlsruhe
 * 24.06.17 AStA Unifest, KIT Karlsruhe
 * 30.06.17 ECKKULTURdörfle, Karlsruhe
+* 03.10.17 Literaturtage, Karlsruhe
 
 ## Kontakt
 
