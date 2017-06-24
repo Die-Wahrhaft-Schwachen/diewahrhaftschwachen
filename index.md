@@ -12,7 +12,7 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 
 Unsere nächsten Auftritte:
 
-* 30.06.17, [ECKKULTURdörfle](http://eckkultur.de/?page_id=1222), Karlsruhe
+* 30.06.17 [ECKKULTURdörfle](http://eckkultur.de/?page_id=1222), Karlsruhe
 * 03.10.17 Literaturtage, Karlsruhe
 
 ## Kontakt
