@@ -12,9 +12,7 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 
 Unsere nächsten Auftritte:
 
-* 13.06.17 Schlonz im AKK, KIT Karlsruhe
-* 24.06.17 AStA Unifest, KIT Karlsruhe
-* 30.06.17 ECKKULTURdörfle, Karlsruhe
+* 30.06.17, [ECKKULTURdörfle](http://eckkultur.de/?page_id=1222), Karlsruhe
 * 03.10.17 Literaturtage, Karlsruhe
 
 ## Kontakt
