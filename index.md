@@ -12,8 +12,7 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 
 Unsere nächsten Auftritte:
 
-* 03.10. Literaturtage Karlsruhe, Cafè Nun, 20 Uhr, Eintritt frei
-* 24.11. Festsaal KIT 123
+* 24.11. Festsaal KIT
 * 25.11. Festsaal KIT
 * 01.12. Festsaal KIT
 * 02.12. Festsaal KIT
