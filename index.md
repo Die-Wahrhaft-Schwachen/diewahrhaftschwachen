@@ -12,10 +12,7 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 
 Unsere nächsten Auftritte:
 
-* 24.11. Festsaal KIT
-* 25.11. Festsaal KIT
-* 01.12. Festsaal KIT
-* 02.12. Festsaal KIT
+* 20.01., [EI(N)FÄLLE 2018](http://studentenkabarett.de), Konservatorium Cottbus, 19:30 Uhr 
 
 ## Kontakt
 
