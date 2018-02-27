@@ -12,7 +12,7 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 
 Unsere nächsten Auftritte:
 
-* 07.04., Kaffehaus Nun in Karlsruhe
+* 07.04., [Kaffehaus Nun](https://nuncafe.de/facebook-event/die-wahrhaft-schwachen-kabarett-im-nun/) in Karlsruhe, 20 Uhr
 * 22.06., ECKKULTURdörfle in Karlsruhe
 
 ## Kontakt
