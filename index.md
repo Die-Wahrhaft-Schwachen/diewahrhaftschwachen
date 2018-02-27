@@ -12,7 +12,8 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 
 Unsere nächsten Auftritte:
 
-* 20.01., [EI(N)FÄLLE 2018](http://studentenkabarett.de), Konservatorium Cottbus, 19:30 Uhr 
+* 07.04., Kaffehaus Nun in Karlsruhe
+* 22.06., ECKKULTURdörfle in Karlsruhe
 
 ## Kontakt
 
