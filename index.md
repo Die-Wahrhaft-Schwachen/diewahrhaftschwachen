@@ -12,7 +12,7 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 
 Unsere nächsten Auftritte:
 
-* 22.06., [ECKKULTURdörfle](https://eckkultur.de/eckkulturkleinkunst/die-wahrhaft-schwachen/) in Karlsruhe, 19:30 Uhr
+* 29.09., Literaturtage Karlsruhe
 
 ## Kontakt
 
