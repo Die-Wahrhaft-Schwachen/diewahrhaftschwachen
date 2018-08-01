@@ -12,7 +12,10 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 
 Unsere nächsten Auftritte:
 
-* 29.09., Literaturtage Karlsruhe
+* 29.09., Literaturtage Karlsruhe, Kaffehaus Nun
+* 01.11., Wernigerode
+* 02.11., Quedlinburg
+* 03.11., Kabarettfestival Aschersleben
 
 ## Kontakt
 
