@@ -12,10 +12,8 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 
 Unsere nächsten Auftritte:
 
-* 29.09., Literaturtage Karlsruhe, Kaffehaus Nun
-* 01.11., Wernigerode
-* 02.11., Quedlinburg
-* 03.11., Kabarettfestival Aschersleben
+* 02.11., [Quedlinburg, 20 Uhr, Kulturzentrum Reichenstrasse e.V.](http://www.kabarett-genial.de/index.php/nov-die-wahrhaft-schwachen)
+* 03.11., [Wernigerode, 19:30 Uhr, Wernigeröder Kunst- & Kulturverein](http://www.kabarett-genial.de/index.php/nov-die-wahrhaft-schwachen)
 
 ## Kontakt
 
