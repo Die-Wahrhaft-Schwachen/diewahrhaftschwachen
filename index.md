@@ -12,8 +12,8 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 
 Unsere nächsten Auftritte:
 
-* 02.11., [Quedlinburg, 20 Uhr, Kulturzentrum Reichenstrasse e.V.](http://www.kabarett-genial.de/index.php/nov-die-wahrhaft-schwachen)
-* 03.11., [Wernigerode, 19:30 Uhr, Wernigeröder Kunst- & Kulturverein](http://www.kabarett-genial.de/index.php/nov-die-wahrhaft-schwachen)
+* 17.11.2018, [Nacht der Wissenschaft Karlsruhe](https://ndw-ka.de/), Tulla Hörsaal KIT, 00:00 Uhr
+* 18.01.2019, [Ei(n)fälle Cottbus](http://satirefestival.de/), Mensa, 19:30 Uhr
 
 ## Kontakt
 
