@@ -13,6 +13,7 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 Unsere nächsten Auftritte:
 
 * 18.01.2019, [Ei(n)fälle Cottbus](http://satirefestival.de/), Mensa, 19:30 Uhr
+* 02.02.2019, Die Wahrhaft Schwachen Spezial - Heiner Soloshow, Kaffeehaus Nun, Karlsruhe, 20 Uhr
 
 ## Kontakt
 
