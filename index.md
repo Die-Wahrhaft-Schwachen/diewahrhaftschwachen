@@ -12,7 +12,6 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 
 Unsere nächsten Auftritte:
 
-* 17.11.2018, [Nacht der Wissenschaft Karlsruhe](https://ndw-ka.de/), Tulla Hörsaal KIT, 00:00 Uhr
 * 18.01.2019, [Ei(n)fälle Cottbus](http://satirefestival.de/), Mensa, 19:30 Uhr
 
 ## Kontakt
