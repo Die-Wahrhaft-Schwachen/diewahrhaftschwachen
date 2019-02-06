@@ -13,7 +13,7 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 Unsere nächsten Auftritte:
 
 * 02.02.2019, Die Wahrhaft Schwachen Spezial - Heiner Soloshow, Kaffeehaus Nun, Karlsruhe, 20 Uhr
-* 16.03.2019, Burg bei Magdeburg
+* 16.03.2019, Burg bei Magdeburg, Grünstraße 2
 
 ## Kontakt
 
