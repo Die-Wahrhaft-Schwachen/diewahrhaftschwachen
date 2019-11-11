@@ -10,7 +10,7 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 
 ## Termine
 
-* Kabarett im Nun - Literaturtage 2019, 12.10. 20:00 Uhr, NUN Kulturraum Karlsruhe
+* Bühne Subversiv: Doppelt hält besser, 23.11. 20:15 Uhr, Kabarett in der Orgelfabrik
 * Kabarett im Takt II, 30.11. 19:30 Uhr, Festsaal im Studentenhaus Karlsruhe
 
 ## Kontakt
