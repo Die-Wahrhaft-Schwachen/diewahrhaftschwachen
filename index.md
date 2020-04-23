@@ -8,11 +8,6 @@ layout: default
 
 Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrhaft Schwachen**.
 
-## Termine
-
-* Bühne Subversiv: Doppelt hält besser, 23.11. 20:15 Uhr, Kabarett in der Orgelfabrik
-* Kabarett im Takt II, 30.11. 19:30 Uhr, Festsaal im Studentenhaus Karlsruhe
-
 ## Kontakt
 
 Per Email erreichen Sie uns unter:
