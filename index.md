@@ -8,6 +8,11 @@ layout: default
 
 Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrhaft Schwachen**.
 
+## Termine
+
+* 18.06.2021, Toujours Kultur, Die Wahrhaft Schwache Late Show XXL
+* 11.08.2021, Toujours Kultur, Die Wahrhaft Schwachen - Kabarett & Kleinkunst
+
 ## Kontakt
 
 Per Email erreichen Sie uns unter:
