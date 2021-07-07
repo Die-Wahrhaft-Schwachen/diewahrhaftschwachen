@@ -10,8 +10,8 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 
 ## Termine
 
-* 18.06.2021, Toujours Kultur, Die Wahrhaft Schwache Late Show XXL
-* 11.08.2021, Toujours Kultur, Die Wahrhaft Schwachen - Kabarett & Kleinkunst
+* 10.07.2021, Toujours Kultur, altes Stadion, Die Wahrhaft Schwachen - (Kabarett & Kleinkunst)[https://www.toujours-kultur.de/programm-gesamt/die-wahrhaft-schwachen-akk]
+* 11.08.2021, Toujours Kultur, Schlachthof, Die Wahrhaft Schwachen - (Kabarett & Kleinkunst)[https://www.toujours-kultur.de/programm-gesamt/die-wahrhaft-schwachen-kabarett-und-kleinkunst]
 
 ## Kontakt
 
