@@ -10,7 +10,7 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 
 ## Termine
 
-* 09.10.2021, 20 Uhr im Prinz Max Palais, Kabarett und Kleinkunst mit den „Wahrhaft Schwachen“ | Literatur offensiv! | 9. Karlsruher Literaturtage
+* 09.10.2021, Literatur offensiv! Kabarett und Kleinkunst im Rahmen der 9. Karlsruher Literaturtage, 20 Uhr im Prinz Max Palais
 
 ## Kontakt
 
