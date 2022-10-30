@@ -11,7 +11,7 @@ Dies ist der Webauftritt der Karlsruher Kabarett & Kleinkunst Gruppe **Die Wahrh
 ## Termine
 
 * 04.11.2022 Campus trifft Kultur - Triangel / Kronenplatz Karlsruhe - 17:45 Uhr
-* 12.11.2022 Kabarett & Kleinkunst - NUN Kulturraum e.V. - 20 Uhr
+* 12.11.2022 Kabarett & Kleinkunst - NUN Kulturraum e.V. - 20:00 Uhr
 * 02.12.2022, Der Wahrhaft Schwache Quizabend - NUN Kulturraum e.V. - 20:00 Uhr
 * 16.12.2022, Der Literaturabend - NUN Kulturraum e.V. - 20:00 Uhr
 * 17.12.2022, Jahresabschluss Show - NUN Kulturraum e.V. - 20:00 Uhr
